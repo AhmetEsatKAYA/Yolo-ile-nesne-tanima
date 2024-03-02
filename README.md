@@ -1,2 +1,2 @@
 # Yolo-ile-nesne-tanima
-Bu projenin yapımına çok katkı sağladığı için @enesozturk60 a çok teşekkür ederim
+Kaynak: https://medium.com/@tejasdalvi927/object-detection-with-yolo-and-opencv-a-practical-guide-cf7773481d11
